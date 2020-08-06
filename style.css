@@ -1,0 +1,24 @@
+
+h1 {
+  color: cyan;
+}
+*{
+  border: solid; 
+}
+
+.header{
+    background-color: rgb(50, 184, 140);
+display: flex;
+justify-content:center;
+}
+
+.grid{
+display:flex ;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.footer{
+    display: ruby;
+    justify-content: space-around;
+}
